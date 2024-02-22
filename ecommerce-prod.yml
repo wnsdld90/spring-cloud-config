@@ -1,0 +1,6 @@
+token:
+  expiration-time: 86400000 # 1일 (ms)
+  secret-key: user_token_for_security_key_prod
+
+gateway:
+  ip: 192.168.178.98
